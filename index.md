@@ -4,16 +4,16 @@ You can use the [editor on GitHub](https://github.com/happybdaysudha/hbd/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hey, 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Wish you
+## a very very
+### happy birthday
 
 - Bulleted
 - List
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**god_bless_you** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
