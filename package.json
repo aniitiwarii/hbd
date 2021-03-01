@@ -1,0 +1,50 @@
+{
+
+  "name": "birthday",
+
+  "version": "1.0.0",
+
+  "description": "Birthday greetings..",
+
+  "main": " ",
+
+  "scripts": {
+
+    "server-node": "http-server -p 8081"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://happybdaysudha.github.io/happybirthdaysudha/"
+
+  },
+
+  "keywords": [
+
+    "Birthday"
+
+  ],
+
+  "author": "Aniket Tiwari",
+
+  "license": "WTFPL",
+
+  "bugs": {
+
+    "url": "https://happybdaysudha.github.io/happybirthdaysudha/"
+
+  },
+
+  "homepage": "https://happybdaysudha.github.io/happybirthdaysudha/#readme",
+
+  "dependencies": {
+
+    "http-server": "^0.11.1"
+
+  }
+
+}
+
